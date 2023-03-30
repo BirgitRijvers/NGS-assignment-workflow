@@ -5,7 +5,7 @@ Repository of the NGS workflow building assignment of Yke Stockman, Isabelle Sew
 The goal of this Galaxy workflow is to perform a hybrid assembly of Nanopore and paired Illumina sequence data, identify the species and detect antibiotic resistance genes. The data quality is also checked and visualized, and the raw reads are trimmed. 
 
 ## Workflow 
-Find the .ga file of the workflow in the files list, or click [here](NGS-assignment-workflow/Workflow_NGS_assignment_YS_IS_MS_BR.ga). Upload this file to Galaxy.
+Find the .ga file of the workflow in the files list, or click [here](Workflow_NGS_assignment_YS_IS_MS_BR.ga). Upload this file to Galaxy.
 
 Our workflow includes:
 * fastp for raw reads QC and trimming
