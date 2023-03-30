@@ -1,5 +1,5 @@
 # NGS assignment workflow
-Repository of the NGS workflow building assignment of Yke Stockman, Isabelle Sewsahai, Mathijs Schouten en Birgit Rijvers
+Repository of the NGS workflow building assignment of Yke Stockman, Isabelle Sewsahai, Mathijs Schouten en Birgit Rijvers.
 
 ## Goal
 The goal of this Galaxy workflow is to perform a hybrid assembly of Nanopore and paired Illumina sequence data, identify the species and detect antibiotic resistance genes. The data quality is also checked and visualized, and the raw reads are trimmed. 
