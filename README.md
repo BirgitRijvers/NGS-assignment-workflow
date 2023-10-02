@@ -22,7 +22,7 @@ Our workflow includes:
 * Phandago to visualize pan/core genome and phylogenetic tree
 
 ## Input data
-One fastq file is required with long reads sequenced with technology from Nanopore, two fastq files are required with short reads (forward and reverse). Upload the files indiviually and not as collection to Galaxy.
+One fastq file is required with long reads sequenced with technology from Nanopore, two fastq files are required with short reads (forward and reverse). Upload the files individually (and not as collection) to Galaxy.
 
 ## Please note
 All steps untill phylogenetic reconstruction with RaXML are included in the galaxy workflow (.ga file), but additional steps are required to visualize the results with Phandago:
